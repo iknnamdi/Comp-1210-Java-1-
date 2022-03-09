@@ -4,7 +4,7 @@ import java.text.DecimalFormat;
  * with ten square side faces and two regular decagon caps where edge
  * and height are non-negative. 
  *
- * Project 04.
+ * Project 06.
  * @author Nnamdi Ikenna-Obi - Comp 1210 - section 001.
  * @version September 17, 2021.
  */
